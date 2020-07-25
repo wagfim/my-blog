@@ -30,7 +30,8 @@ twitter_username: wagfim
 github_username:  wagfim
 
 # Build settings
-theme: minima
+# Tema minima removido, site agora é um 'regular theme'
+# theme: minima
 plugins:
   - jekyll-feed
 
